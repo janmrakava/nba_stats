@@ -1,0 +1,19 @@
+﻿
+ZDJP - Projekt
+
+Název: Web scraping statistik hráčů NBA + analýza
+Členové: Bc. Jan Mrákava, Bc. Adam Přikryl
+Popis:	Výstupem naší práce bude dataset statistik všech hráčů NBAza posledních 10 let v daných sezónách a
+	a analýza tohoto datasetu, včetně výsledných grafů 
+Specifikace:	Bude provedena tvorba datasetu pomocí web scrapingu ze stránky
+		https://www.nba.com/stats/players/traditional/?sort=PTS&dir=-1.
+		Dataset bude obsahovat jména hráčů, jejich týmy a všechny dostupné, vhodné statistiky.
+		Tento dataset bude zahrnovat 10 posledních sezón v soutěži, od sezóny 2010-2011
+		po sezónu 2020-2021.
+		Následně bude provedena analýza vytvořeného datasetu. Výsledkem budou následně funkce pro zobrazení výsledků
+		jako např. maxima bodů hráče za danou sezónu, průměry vybrané statistiky hráče,
+		celkový počet pokusů za 3 body (za 2, za 1), počty faulů hráče/týmu, úspěšnost střelby hráče a další.
+		Zároveň bude možné požadované hodnoty a výsledky datasetu zobrazit ve formě grafu.
+Knihovny: Math, BeautifulSoup, Requests
+Zapojení členů týmu: Adam Přikryl vytvoří dataset a provede scraping dat, Jan Mrákava provede analýzu datasetu a vytvoří 
+			analytické výstupy.

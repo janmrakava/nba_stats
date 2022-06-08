@@ -1,0 +1,24 @@
+Pozn�mky k Pythonu
+ - popis Readme.md, to co co del�
+ - je mo�n� v�ce sezon
+ - d�lka scrappu je v pohode
+ - group by, cross tab fce... zjednodu�it cykly
+ - spoc�tat v�echn stats a vybrat dule�it�
+ 
+
+ Obhajoba:
+
+ - co je záměr - Scraping dat z NBA za posledních 25 sezon
+ - tvorba datasetu z těchto dat
+ - analýza datasetu, výpočty, grafová reprezentace
+ - korelace dat 
+ - zápis dat, dataFramu a grafů do .xlsx souboru
+ - výsledný projekt je možné použít při sázkách (analýzy)
+ - potenciál při sázkovém poradenství - s drobnými úpravami
+ Adam
+ - scraper
+ - grafy
+
+ Honza
+ - funkce
+ - korelace

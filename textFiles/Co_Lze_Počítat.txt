@@ -1,0 +1,37 @@
+﻿Hráč - DONE
+    - průměrný počet bodů celkově, za sezonu to tam přece je, ne DONE
+    - Procentuální počet výher/proher DONE
+    - Úspěšnost hodů za 10 sezon + u toho se nabízí i počet celkových hodů/počet úspěšných hodů bez % DONE
+    - Nějaká úspěšnost trojek za 10 sezon DONE
+    - Úspěšnost trestných hodů za 10 sezon DONE
+    - průměrný počet asistencí/doskoků za 10 sezon DONE
+    - Nebo počet odehraných her % k celkovému počtu DONE
+    - Počet odehraných minut, například % napsat, kolik odehrál z maximálně možných  DONE
+    - Co nemáme v Excelu a mohlo by být zajímavé - Počet turnArounds, steals, bloků, počet faulů DONE
+    - Statistika +/- DONE
+Tým - DONE
+    - věkový průměr týmů za 10 let DONE
+    - Počet výher/proher jednotlivých týmů za 10 sezon
+    - Pokud máme počet bodů za tým. Co třeba počet asistencí, doskoků, turnArounds, steals, bloků, počet faulů? DONE
+DONE
+    - tak jak máme unikátní hráče v listu, udělat samostatně list na všechny týmy DONE
+    - zefektivnit scraper - snížit časovou náročnost..?
+
+
+TODO? 
+    - nějaká statistika s odehraným časem, spojit to nějak s bodama. 
+    - Občas si všimnu na meme stránkách, že televizní stanice dělají často různý statistiky, tak zkusit najít nějakou. Většinou je to třeba - potřebný čas na skorování x bodů a podobně.
+   
+Sezona - TODO
+    - věkový průměr hráčů (DONE) - dozapsat do každé sezóny (listu)
+    - průměr bodů na zápas, což samozřejmě může i pro fauly, asistence, doskoky a všechno. Ale body jsou dobré určitě
+
+TODO: 
+
+    - dodělat grafy z dat, přehledné a pěkné (samostatný jupyter soubor..?)
+    - zpřehlednit bloky kódů + vylepšit markdown - popisy bloků kódu
+    - vymyslet smysluplné statistiky pro celý tým
+    -https://en.wikipedia.org/wiki/Point_(basketball)
+    -https://towardsdatascience.com/how-likely-to-win-the-game-when-a-team-first-reach-to-x-points-in-nba-f9de84eb6966
+    - Ranking týmů za 10 let - analytika
+    - Korelace mezi počtem bodů a odehraným časem, korelace mezi počtem faulů/+-/steals s počtem proher, počet bodů a výhry a podobně. 
